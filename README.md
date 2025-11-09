@@ -1,8 +1,8 @@
-# SQL_Portfolio
+# IPL analytics using SQL
 ## Description
 Hi everyone, my name is Prateek Pal.
 This is my first SQL portfolio project in which I have taken a dataset from [Kaggle.com](https://www.kaggle.com/datasets/harsha547/indian-premier-league-csv-dataset?select=Ball_by_Ball.csv) 
-This dataset includes IPL 2008-2016 data with 6 inter-connected tables :
+This dataset includes IPL 2008-2016 data with 6 interconnected tables :
 1. Ball_by_Ball.csv
 2. Match.csv
 3. Player.csv
